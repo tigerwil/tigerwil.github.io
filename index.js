@@ -5,3 +5,5 @@ app.use(express.static(__dirname + '/'));
 
 app.listen('3000');
 console.log('working on 3000');
+
+//run from command line:  node index.js
