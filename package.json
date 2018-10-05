@@ -1,0 +1,26 @@
+{
+  "name": "tigerwil.github.io",
+  "version": "1.0.0",
+  "description": "NPM InclassDemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tigerwil/tigerwil.github.io.git"
+  },
+  "keywords": [
+    "Inclass",
+    "demo"
+  ],
+  "author": "Marc Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tigerwil/tigerwil.github.io/issues"
+  },
+  "homepage": "https://github.com/tigerwil/tigerwil.github.io#readme",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
